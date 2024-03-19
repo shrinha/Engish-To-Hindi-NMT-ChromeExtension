@@ -9,6 +9,7 @@ Since Github Limits the upload size for files, the trained model must be downloa
 Moreover, If you wish to refer to the training/tuning of the model, I've added the colab notebook
 
 ### 3) Install the Prerequisite Libraries (Copy to the Command Line or Terminal)
+* Ensure that you have Python installed for running app.py (and pip if you intend to use the below commands)
 * Tensorflow
 
       pip install tensorflow
@@ -21,7 +22,7 @@ Moreover, If you wish to refer to the training/tuning of the model, I've added t
 * Transformers Library and Numpy
 
       pip install numpy transformers
-* Additionally, ensure that you have Python installed for running app.py (and pip if you intend to use the above commands)
+
 
 ### 4) Load the Eng2Hin Folder as Extension in your Chrome browser
 * Go to the Extensions page by entering chrome://extensions in a new tab. (By design chrome:// URLs are not linkable). Alternatively, click the Extensions menu puzzle button and select Manage Extensions at the bottom of the menu.
